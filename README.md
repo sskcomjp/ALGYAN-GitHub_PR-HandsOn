@@ -4,16 +4,24 @@ IoTあるじゃんGitHubハンズオンセミナーのスライド資料
 
 ## このリポジトリの説明
 
-本リポジトリは，IoTあるじゃん主催  
-「[今さら聞けないGitHubの使い方あれこれをやさしく学べる入門ハンズオンセミナー！](https://algyan.connpass.com/event/179698/)」  
-のスライド資料の作成のためのものです．  
+本リポジトリは，２つのスライド資料を作成するためのものです．  
 [GitPitch](https://gitpitch.com/)を利用しています．
 
-対象のハンズオン：
-- ３．さぁ、今すぐ一緒に「ALGYANのWebサイト構築」に参加してみよう！
+### `main` branch
 
-スライドのURL：  
-https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn
+[IoTあるじゃん公式Webサイト](https://algyan.github.io/) におけるMembersへの追加手順を示しています．
+
+- Members： https://algyan.github.io/#members
+- スライド： https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/
+
+### `presentation` branch
+
+IoTあるじゃん主催  
+「[今さら聞けないGitHubの使い方あれこれをやさしく学べる入門ハンズオンセミナー！](https://algyan.connpass.com/event/179698/)」  
+のスライド資料用です．  
+
+- 対象のハンズオン：３．さぁ、今すぐ一緒に「ALGYANのWebサイト構築」に参加してみよう！
+- スライド： https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/presentation
 
 ## リンク
 
