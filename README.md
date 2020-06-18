@@ -7,7 +7,7 @@ IoTあるじゃんGitHubハンズオンセミナーのスライド資料
 本リポジトリは，２つのスライド資料を作成するためのものです．  
 [GitPitch](https://gitpitch.com)を利用しています．
 
-### `main` branch
+### `master` branch
 
 [IoTあるじゃん公式Webサイト](https://algyan.github.io) におけるMembersへの追加手順を示しています．
 
