@@ -337,9 +337,13 @@ https://algyan.github.io/
 
 ![画像](https://algyan.github.io/img/algyan.jpg)
 
++++
+
 画像とリンクを併用
 
 [![画像](https://algyan.github.io/img/algyan.jpg)](https://algyan.github.io/)
+
++++
 
 `snap`と併用？
 
@@ -354,6 +358,10 @@ https://algyan.github.io/
 [README.md](README.md)
 
 ![画像](imgs/algyan.jpg)
+
+branchは？
+
+[howto](howto)
 
 +++
 
