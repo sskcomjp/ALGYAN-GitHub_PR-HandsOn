@@ -401,8 +401,9 @@ htmlの直書きのソース
 ```html
 <a href="https://gist.github.com/rxaviers/7360908">
 Complete list of github markdown emoji markup
-</a>
-IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．  
+</a><br>
+IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．<br>
+<img src="https://algyan.github.io/img/algyan.jpg" width="50%">
 ```
 
 +++
@@ -411,8 +412,9 @@ htmlの直書きの結果
 
 <a href="https://gist.github.com/rxaviers/7360908">
 Complete list of github markdown emoji markup
-</a>
-IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．  
+</a><br>
+IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．<br>
+<img src="https://algyan.github.io/img/algyan.jpg" width="50%">
 
 ---
 
