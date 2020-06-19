@@ -104,6 +104,7 @@ h1の中で空白x2を入れてみた
   - 番号はネストしない（1.1とかにはならない）
   - 前後の空行は無くてよい
 - チェックリスト `- []` は綺麗には使えない
+- 空白x2入れても改行にはならない
 - Fragment Slides良い感じ
   - ネストはそれほど綺麗にはならない
 
@@ -198,6 +199,113 @@ h1の中で空白x2を入れてみた
 - アニメーションができます。|
 - アニメーションができます。
 - アニメーションができます。|
+
+---
+
+## 引用・コード・コードブロック
+
+- 
+
++++
+
+> これは引用文です．
+
+> 空行を空けました．
+
+> ２文にまたがって
+> 引用しています．
+
++++ 
+
+`Hello`とか`world`とか
+
++++
+
+コードブロック
+
+```
+#include <stdio.h>
+
+int main(int argc, char *args[])
+{
+    printf("Hello, world!\n");
+    return 0;
+}
+```
+
++++
+
+コードブロック by c
+
+```c
+#include <stdio.h>
+
+int main(int argc, char *args[])
+{
+    printf("Hello, world!\n");
+    return 0;
+}
+```
+
++++
+
+コードブロック by html
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+</head>
+<body>
+Hello World！
+</body
+</html>
+```
+
++++
+
+コードブロック by elixir
+
+```elixir
+defmodule Hello do
+
+    def world do
+        IO.puts "Hello world"
+    end
+end
+
+Hello.world
+```
+
++++
+
+@snap[east span-50]
+### Fenced Code within<br>Snap Layouts
+@snapend
+
+@snap[north-west span-55]
+#### Module Aliases
+```elixir
+alias GenMetrics.GenStage.Manager
+alias GenMetrics.GenStage.Monitor
+alias GenMetrics.GenStage.Pipeline
+alias GenMetrics.Reporter
+alias GenMetrics.GenStage.Window
+alias GenMetrics.Utils.Runtime
+```
+@snapend
+
+@snap[south-west span-55]
+#### Module Attributes
+```elixir
+@moduledoc false
+@handle_demand :handle_demand
+@handle_events :handle_events
+@handle_call   :handle_call
+@handle_cast   :handle_cast
+```
+@snapend
 
 ---
 
