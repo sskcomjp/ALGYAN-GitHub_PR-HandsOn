@@ -433,6 +433,17 @@ IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニテ
 theme : sky
 transition : fade
 logo : assets/algyan.jpg
+theme-override : assets/css/PITCHME.css
+```
++++
+
+このスライドの`assets/css/PITCHME.css`
+
+```css
+theme : sky
+transition : fade
+logo : assets/algyan.jpg
+theme-override : assets/css/PITCHME.css
 ```
 
 ---
