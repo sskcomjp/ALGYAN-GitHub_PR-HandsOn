@@ -4,8 +4,7 @@
 - 文字の装飾
 - 箇条書き・番号・チェックリスト
 - 引用・コード・コードブロック
-- リンク
-- 図表の挿入
+- リンク・図表
 - emoji
 - htmlの直接記述
 - config.yaml
@@ -96,7 +95,7 @@ h1の中で空白x2を入れてみた
 
 ---
 
-## 箇条書き・番号・チェックリスト
+## 箇条書き・番号
 
 - 箇条書き・番号
   - `- ` `* ` `1.` どちらでもおけ
@@ -204,7 +203,10 @@ h1の中で空白x2を入れてみた
 
 ## 引用・コード・コードブロック
 
-- 引用は
+- 引用はそれほど綺麗じゃない
+- コードはそんなに分からない（フォントが変わるだけ）
+- コードブロックは素敵
+- `snap`混ぜるとカッコイイ
 
 +++
 
@@ -309,6 +311,58 @@ alias GenMetrics.Utils.Runtime
 @handle_cast   :handle_cast
 ```
 @snapend
+
+---
+
+## リンク・図表
+
+- 引用はそれほど綺麗じゃない
+- コードはそんなに分からない（フォントが変わるだけ）
+- コードブロックは素敵
+- `snap`混ぜるとカッコイイ
+
++++
+
+ベタ書き
+
+https://algyan.github.io/
+
+`[]()`のリンクを使う
+
+[リンクを使う](https://algyan.github.io/)
+
++++
+
+画像を貼り付け
+
+![画像](https://algyan.github.io/img/algyan.jpg)
+
+画像とリンクを併用
+
+[![画像](https://algyan.github.io/img/algyan.jpg)](https://algyan.github.io/)
+
+`snap`と併用？
+
+@snap[north-east span-55]
+![画像](https://algyan.github.io/img/algyan.jpg)
+@snapend
+
++++
+
+ローカルファイルは？
+
+[README.md](README.md)
+
+![画像](imgs/algyan.jpg)
+
++++
+
+表を使う
+
+|左寄せ|中央|右寄せ|
+|:---|:---:|---:|
+|左ヒジ左ヒジ|頭も|右ヒジ右ヒジ|
+|交互に見て交互に見て|前に出して|交互に見て交互に見て|
 
 ---
 
