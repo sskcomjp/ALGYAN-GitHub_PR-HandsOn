@@ -7,21 +7,28 @@ IoTあるじゃんGitHubハンズオンセミナーのスライド資料
 本リポジトリは，２つのスライド資料を作成するためのものです．  
 [GitPitch](https://gitpitch.com)を利用しています．
 
-### `master` branch
-
-[IoTあるじゃん公式Webサイト](https://algyan.github.io) におけるMembersへの追加手順を示しています．
-
-- Members： https://algyan.github.io/#members
-- スライド： https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn
-
-### `presentation` branch
+### `main` branch
 
 IoTあるじゃん主催  
 「[今さら聞けないGitHubの使い方あれこれをやさしく学べる入門ハンズオンセミナー！](https://algyan.connpass.com/event/179698/)」  
 のスライド資料用です．  
 
 - 対象のハンズオン：３．さぁ、今すぐ一緒に「ALGYANのWebサイト構築」に参加してみよう！
-- スライド： https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/presentation
+- スライド： https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/main
+
+### `howto` branch
+
+[IoTあるじゃん公式Webサイト](https://algyan.github.io) におけるMembersへの追加手順(のみ)を示しています．`main`の抜粋版となります．
+
+- Members： https://algyan.github.io/#members
+- スライド： https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/howto
+
+### `test` branch
+
+GitPitchの使い勝手やサポート範囲の文法を調べるために作ったものです．
+
+- スライド： https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/test
+  - ソース： https://github.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/blob/test/PITCHME.md
 
 ## リンク
 
