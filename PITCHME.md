@@ -405,6 +405,7 @@ Complete list of github markdown emoji markup
 </a><br>
 IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．<br/>
 <img src="https://algyan.github.io/img/algyan.jpg" width="50%"/>
+<img src="assets/algyan.jpg" width="50%"/>
 ```
 
 +++
@@ -416,6 +417,7 @@ Complete list of github markdown emoji markup
 </a><br>
 IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．<br/>
 <img src="https://algyan.github.io/img/algyan.jpg" width="50%"/>
+<img src="assets/algyan.jpg" width="50%"/>
 
 ---
 
