@@ -440,10 +440,20 @@ theme-override : assets/css/PITCHME.css
 このスライドの`assets/css/PITCHME.css`
 
 ```css
-theme : sky
-transition : fade
-logo : assets/algyan.jpg
-theme-override : assets/css/PITCHME.css
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: none;
+  word-wrap: break-word;
+}
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
 ```
 
 ---

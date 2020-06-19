@@ -1,3 +1,4 @@
 theme : sky
 transition : fade
 logo : assets/algyan.jpg
+theme-override : common_assets/css/PITCHME.css
