@@ -6,7 +6,7 @@
 - 引用・コード・コードブロック
 - リンク・図表
 - emoji, html
-- config.yaml
+- PITCHME.yaml
 
 ---
 
@@ -360,7 +360,7 @@ https://algyan.github.io/
 
 [README.md](README.md)
 
-![画像](imgs/algyan.jpg)
+![画像](assets/algyan.jpg)
 
 branchは？
 
@@ -379,10 +379,11 @@ branchは？
 
 ## emoji,html
 
-- リンクはベタ書きでも`[]()`でもおけ
-  - 別タブで開く設定になる
-  - branchは同タブで開く
-- 画像はリンク指定でもローカルでも使える
+- emojiは使えない
+- html直書きもけっこういける
+  - 文字大きさは結構ズレそう
+  - 文字の色くらいがよさそう
+  - `<img>`でサイズ調整が良さそう
 
 +++
 
@@ -402,8 +403,8 @@ htmlの直書きのソース
 <a href="https://gist.github.com/rxaviers/7360908">
 Complete list of github markdown emoji markup
 </a><br>
-IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．<br>
-<img src="https://algyan.github.io/img/algyan.jpg" width="50%">
+IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．<br/>
+<img src="https://algyan.github.io/img/algyan.jpg" width="50%"/>
 ```
 
 +++
@@ -413,8 +414,19 @@ htmlの直書きの結果
 <a href="https://gist.github.com/rxaviers/7360908">
 Complete list of github markdown emoji markup
 </a><br>
-IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．<br>
-<img src="https://algyan.github.io/img/algyan.jpg" width="50%">
+IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．<br/>
+<img src="https://algyan.github.io/img/algyan.jpg" width="50%"/>
+
+---
+
+## PITCHME.yaml
+
+[こっち](https://gitpitch.com/kakisoft/HowToUseGitPitch2)のが詳しい
+
++++
+
+```yaml
+```
 
 ---
 
