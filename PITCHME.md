@@ -428,7 +428,7 @@ IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニテ
 このスライドの`PITCHME.yaml`
 
 ```yaml
-theme : night
+theme : sky
 transition : fade
 logo : assets/algyan.jpg
 ```
