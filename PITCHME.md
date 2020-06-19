@@ -447,7 +447,8 @@ theme-override : assets/css/PITCHME.css
 .reveal h5,
 .reveal h6 {
   text-transform: none;
-  color: #000080;
+  color: #4169e1;
+  font-weight: bold;
   word-wrap: break-word;
 }
 
