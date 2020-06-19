@@ -5,8 +5,7 @@
 - 箇条書き・番号・チェックリスト
 - 引用・コード・コードブロック
 - リンク・図表
-- emoji
-- htmlの直接記述
+- emoji, html
 - config.yaml
 
 ---
@@ -204,7 +203,8 @@ h1の中で空白x2を入れてみた
 ## 引用・コード・コードブロック
 
 - 引用はそれほど綺麗じゃない
-- コードはそんなに分からない（フォントが変わるだけ）
+- コードはそんなに分からない
+  - フォントが変わるだけ
 - コードブロックは素敵
 - `snap`混ぜるとカッコイイ
 
@@ -374,6 +374,45 @@ branchは？
 |:---|:---:|---:|
 |左ヒジ左ヒジ|頭も|右ヒジ右ヒジ|
 |交互に見て交互に見て|前に出して|交互に見て交互に見て|
+
+---
+
+## emoji,html
+
+- リンクはベタ書きでも`[]()`でもおけ
+  - 別タブで開く設定になる
+  - branchは同タブで開く
+- 画像はリンク指定でもローカルでも使える
+
++++
+
+emoji
+
+:smile: 
+
+:wink: :mask: :innocent:
+
+:tada:
+
++++
+
+htmlの直書きのソース
+
+```html
+<a href="https://gist.github.com/rxaviers/7360908">
+Complete list of github markdown emoji markup
+</a>
+IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．  
+```
+
++++
+
+htmlの直書きの結果
+
+<a href="https://gist.github.com/rxaviers/7360908">
+Complete list of github markdown emoji markup
+</a>
+IoT ALGYAN は，<font color="red" size="5">IoTを学べる最強コミュニティ</font>です．  
 
 ---
 
