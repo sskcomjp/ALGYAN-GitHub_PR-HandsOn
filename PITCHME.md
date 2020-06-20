@@ -456,6 +456,11 @@ theme-override : assets/css/PITCHME.css
   border: 0;
   box-shadow: none;
 }
+
+.reveal a {
+  color: #3cb371;
+  text-decoration:underline;
+}
 ```
 
 ---
