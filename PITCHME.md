@@ -121,7 +121,7 @@ Propose changesの欄に編集内容を記入する
 
 ### 5. Webブラウザ上でポチポチ操作
 
-「<font color="green"> ✔ Able to merge.</font>」が表示されていることを確認する
+「<font color="green"> ✔ Able to merge.</font>」が出ていることを確認する
 
 <img src="assets/github-comparing_change.png" width="70%"/>
 
@@ -146,4 +146,56 @@ Propose changesの欄に編集内容を記入する
 ### 6. Pull Requestの出来上がり！
 
 <img src="assets/github-pulls.png" width="70%"/>
+
+---
+
+### 管理者がマージするまでそのままお待ちください
+
+#### m(\_ \_)m
+
+ところでなにが起きたの？気になる方は↓へ！
+
++++
+
+### GitHubの裏側で起きているコト
+
+1. リポジトリを自身のアカウントにFork
+2. 編集作業が含まれたbranchを作成
+3. Pull Requestを作成
+
++++
+
+Pull Request画面の  
+from <font color="lightsteelblue">(ユーザ名):patch-1</font>  
+をクリック
+
+<img src="assets/github-pulls_link.png" width="70%"/>
+
++++
+
+### 1. リポジトリのFork
+
+あるじゃん公式Webサイトの管理リポジトリが
+自身のアカウント配下にコピーされている
+
+<img src="assets/github-fork.png" width="70%"/>
+
++++
+
+### 2. branchの作成 
+
+`patch-1`という名前のbranchが作成されている  
+`15 commits`というところを開くとログも見れる
+
+<img src="assets/github-fork.png" width="70%"/>
+
++++
+
+### 3. Pull Requestを作成
+
+管理者に編集の反映をリクエストしている
+
+<img src="assets/github-pulls.png" width="70%"/>
+
+---
 
