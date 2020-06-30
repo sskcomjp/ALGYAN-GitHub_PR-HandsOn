@@ -227,7 +227,7 @@ https://github.com/algyan/algyan.github.io/graphs/contributors
 
 ### 最後に大事なこと！
 
-GitHubのリポジトリにStarを付けよう
+#### GitHubのリポジトリにStarを付けよう
 
 LGMT! 役に立ったありがとう！
 
