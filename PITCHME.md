@@ -2,7 +2,7 @@
 
 https://algyan.github.io/#members
 
-![web-members](assets/web-members.png)
+<img src="assets/web-members.png" width="50%"/>
 
 ---
 
@@ -21,7 +21,7 @@ https://algyan.github.io/#members
 
 https://github.com/login
 
-![github-login](assets/github-login.png)
+<img src="assets/github-login.png" width="50%"/>
 
 ログイン済みの方は次へ →
 
@@ -31,7 +31,7 @@ https://github.com/login
 
 https://github.com/algyan/algyan.github.io
 
-![github-algyan_github_io.png](assets/github-algyan_github_io.png)
+<img src="assets/github-algyan_github_io.png" width="50%"/>
 
 ---
 
@@ -39,7 +39,7 @@ https://github.com/algyan/algyan.github.io
 
 一番下の `index.md` を開く
 
-![github-index_open.png](assets/github-index_open.png)
+<img src="assets/github-index_open.png" width="50%"/>
 
 ---
 
@@ -48,7 +48,7 @@ https://github.com/algyan/algyan.github.io
 ペンのマークをクリックする  
 (`Edit the file in your fork of this project`)
 
-![github-index_edit1.png](assets/github-index_edit1.png)
+<img src="assets/github-index_edit1.png" width="50%"/>
 
 ---
 
@@ -57,7 +57,7 @@ https://github.com/algyan/algyan.github.io
 一番下までスクロールしてみよう  
 (画像はスクロール前)
 
-![github-index_edit2.png](assets/github-index_edit2.png)
+<img src="assets/github-index_edit2.png" width="50%"/>
 
 ---
 
@@ -66,7 +66,7 @@ https://github.com/algyan/algyan.github.io
 一番下までスクロールしてみよう  
 (画像はスクロール後)
 
-![github-index_edit3.png](assets/github-index_edit3.png)
+<img src="assets/github-index_edit3.png" width="50%"/>
 
 ---
 
@@ -78,7 +78,7 @@ https://github.com/algyan/algyan.github.io
 
 などの行をコピペして，自分の情報に編集する．
 
-![github-index_edit4.png](assets/github-index_edit4.png)
+<img src="assets/github-index_edit4.png" width="50%"/>
 
 ---
 
@@ -100,7 +100,7 @@ Propose changesの欄に編集内容を記入する
 - 1つめはlogに残る 短く分かりやすいと良い
 - 2つめは，補足の説明をなるべく詳細に書く
 
-![github-index_edit5.png](assets/github-index_edit5.png)
+<img src="assets/github-index_edit5.png" width="50%"/>
 
 ---
 
@@ -108,7 +108,7 @@ Propose changesの欄に編集内容を記入する
 
 緑色の「Propose changes」をクリックする
 
-![github-propose_changes.png](assets/github-propose_changes.png)
+<img src="assets/github-propose_changes.png" width="50%"/>
 
 ---
 
@@ -116,7 +116,7 @@ Propose changesの欄に編集内容を記入する
 
 緑色の「✔ Able to merge.」が表示されていることを確認する
 
-![github-comparing_change.png](assets/github-comparing_change.png)
+<img src="assets/github-comparing_change.png" width="50%"/>
 
 ---
 
@@ -124,7 +124,7 @@ Propose changesの欄に編集内容を記入する
 
 緑色の「Create pull request」をクリックする
 
-![github-create_pull_request1.png](assets/github-create_pull_request1.png)
+<img src="assets/github-create_pull_request1.png" width="50%"/>
 
 ---
 
@@ -132,11 +132,11 @@ Propose changesの欄に編集内容を記入する
 
 右下の「Create pull request」をクリックする
 
-![github-create_pull_request2.png](assets/github-create_pull_request2.png)
+<img src="assets/github-create_pull_request2.png" width="50%"/>
 
 ---
 
 ### 6. Pull Requestの出来上がり！
 
-![github-pulls.png](assets/github-pulls.png)
+<img src="assets/github-pulls.png" width="50%"/>
 
