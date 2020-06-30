@@ -37,7 +37,7 @@ https://github.com/algyan/algyan.github.io
 
 ### 3. Webブラウザ上でindex.mdを開く
 
-一番下の `index.md` を開く
+`index.md` を選択して開く
 
 <img src="assets/github-index_open.png" width="70%"/>
 
@@ -149,7 +149,7 @@ Propose changesの欄に編集内容を記入する
 
 ---
 
-### 管理者がマージするまでそのままお待ちください
+### 管理者がマージするまでしばらく そのままお待ちください
 
 #### m(\_ \_)m
 
@@ -166,7 +166,7 @@ Propose changesの欄に編集内容を記入する
 +++
 
 Pull Request画面の  
-from <font color="lightsteelblue">(ユーザ名):patch-1</font>  
+from <font color="aliceblue">(ユーザ名):patch-1</font>  
 をクリック
 
 <img src="assets/github-pulls_link.png" width="70%"/>
@@ -175,7 +175,7 @@ from <font color="lightsteelblue">(ユーザ名):patch-1</font>
 
 ### 1. リポジトリのFork
 
-あるじゃん公式Webサイトの管理リポジトリが
+あるじゃん公式Webサイトの管理リポジトリが  
 自身のアカウント配下にコピーされている
 
 <img src="assets/github-fork.png" width="70%"/>
@@ -198,4 +198,40 @@ from <font color="lightsteelblue">(ユーザ名):patch-1</font>
 <img src="assets/github-pulls.png" width="70%"/>
 
 ---
+
+### そろそろかなっ？？
+
+Pull Requestの画面を見てみる  
+「Pull request successfully merged and closed」となっていることを確認する
+
+<img src="assets/github-merged.png" width="70%"/>
+
+---
+
+### Membersを見てみよう！
+
+https://algyan.github.io/#members
+
+<img src="assets/web-members_new.png" width="70%"/>
+
+---
+
+### ちなみに，，，
+
+あなたも<font color="coral">あるじゃん公式Webサイト</font>の  
+Contributorsの一員に！！
+
+https://github.com/algyan/algyan.github.io/graphs/contributors
+
+---
+
+### 最後に大事なこと！
+
+GitHubのリポジトリにStarを付けよう
+
+LGMT! 役に立ったありがとう！
+
+Starが増えると中のヒトは喜びます
+
+<img src="assets/github-star.png" width="70%"/>
 
