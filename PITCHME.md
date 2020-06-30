@@ -1,4 +1,139 @@
-### 準備中です！
+## あるじゃん公式WebサイトのMembersに名前を連ねよう！
 
-ちょっとまっててねm(\_ \_)m
+https://algyan.github.io/#members
+
+![web-members](assets/web-members.png)
+
+---
+
+### やること
+
+1. GitHubにログイン
+2. GitHub管理リポジトリにアクセス
+3. Webブラウザ上でindex.mdを開く
+4. index.mdを編集する
+5. Webブラウザ上でポチポチ操作する
+6. あら簡単 Pull Requestの出来上がり！
+
+---
+
+### 1. GitHubにログイン
+
+https://github.com/login
+
+![github-login](assets/github-login.png)
+
+ログイン済みの方は次へ →
+
+---
+
+### 2. GitHub管理リポジトリにアクセス
+
+https://github.com/algyan/algyan.github.io
+
+![github-algyan_github_io.png](github-algyan_github_io.png)
+
+---
+
+### 3. Webブラウザ上でindex.mdを開く
+
+一番下の `index.md` を開く
+
+![github-index_open.png](github-index_open.png)
+
+---
+
+### 3. Webブラウザ上でindex.mdを開く
+
+ペンのマークをクリックする  
+(`Edit the file in your fork of this project`)
+
+![github-index_edit1.png](github-index_edit1.png)
+
+---
+
+### 3. Webブラウザ上でindex.mdを開く
+
+一番下までスクロールしてみよう
+(画像はスクロール前)
+
+![github-index_edit2.png](github-index_edit2.png)
+
+---
+
+### 3. Webブラウザ上でindex.mdを開く
+
+一番下までスクロールしてみよう
+(画像はスクロール後)
+
+![github-index_edit3.png](github-index_edit3.png)
+
+---
+
+### 4. index.mdを編集する
+
+> | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+などの行をコピペして，自分の情報に編集する．
+
+![github-index_edit4.png](github-index_edit4.png)
+
+---
+
+### 4. index.mdを編集する
+
+編集時の注意点
+- お１人ずつ１行でコピペして編集してください（改行が入ると表のレイアウトが崩れます^^;
+- お名前はハンドルネームなどでも構いません
+- 場所は住んでいるところや出没地など！
+- SNSは、Facebook・Twitter・GitHubに対応しています。持っていないもの／掲載したくないものは消してください。
+- あなたにとってIoTとは？ひと言お寄せください（セル内で改行を入れたい場合は`<br>`です）
+
+---
+
+### 5. Webブラウザ上でポチポチ操作する
+
+Propose changesの欄に編集内容を記入する  
+(編集せずに飛ばしても良い)
+- 1つめはlogに残る 短く分かりやすいと良い
+- 2つめは，補足の説明をなるべく詳細に書く
+
+![github-index_edit5.png](github-index_edit5.png)
+
+---
+
+### 5. Webブラウザ上でポチポチ操作する
+
+緑色の「Propose changes」をクリックする
+
+![github-propose_changes.png](github-propose_changes.png)
+
+---
+
+### 5. Webブラウザ上でポチポチ操作する
+
+緑色の「✔ Able to merge.」が表示されていることを確認する
+
+![github-comparing_change.png](github-comparing_change.png)
+
+---
+
+### 5. Webブラウザ上でポチポチ操作する
+
+緑色の「Create pull request」をクリックする
+
+![github-create_pull_request1.png](github-create_pull_request1.png)
+
+---
+
+### 5. Webブラウザ上でポチポチ操作する
+
+右下の「Create pull request」をクリックする
+
+![github-create_pull_request2.png](github-create_pull_request2.png)
+
+---
+
+### 6. あら簡単 Pull Requestの出来上がり！
+
+![github-pulls.png](github-pulls.png)
 
