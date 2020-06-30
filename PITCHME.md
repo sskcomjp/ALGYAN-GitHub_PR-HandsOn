@@ -72,7 +72,10 @@ https://github.com/algyan/algyan.github.io
 
 ### 4. index.mdを編集する
 
-> | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+```
+| あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+```
+
 などの行をコピペして，自分の情報に編集する．
 
 ![github-index_edit4.png](assets/github-index_edit4.png)
@@ -82,7 +85,7 @@ https://github.com/algyan/algyan.github.io
 ### 4. index.mdを編集する
 
 編集時の注意点
-- お１人ずつ１行でコピペして編集してください（改行が入ると表のレイアウトが崩れます^^;
+- お１人ずつ１行でコピペして編集してください  （改行が入ると表のレイアウトが崩れます^^;
 - お名前はハンドルネームなどでも構いません
 - 場所は住んでいるところや出没地など！
 - SNSは、Facebook・Twitter・GitHubに対応しています。持っていないもの／掲載したくないものは消してください。
@@ -90,7 +93,7 @@ https://github.com/algyan/algyan.github.io
 
 ---
 
-### 5. Webブラウザ上でポチポチ操作する
+### 5. Webブラウザ上でポチポチ操作
 
 Propose changesの欄に編集内容を記入する  
 (編集せずに飛ばしても良い)
@@ -101,7 +104,7 @@ Propose changesの欄に編集内容を記入する
 
 ---
 
-### 5. Webブラウザ上でポチポチ操作する
+### 5. Webブラウザ上でポチポチ操作
 
 緑色の「Propose changes」をクリックする
 
@@ -109,7 +112,7 @@ Propose changesの欄に編集内容を記入する
 
 ---
 
-### 5. Webブラウザ上でポチポチ操作する
+### 5. Webブラウザ上でポチポチ操作
 
 緑色の「✔ Able to merge.」が表示されていることを確認する
 
@@ -117,7 +120,7 @@ Propose changesの欄に編集内容を記入する
 
 ---
 
-### 5. Webブラウザ上でポチポチ操作する
+### 5. Webブラウザ上でポチポチ操作
 
 緑色の「Create pull request」をクリックする
 
@@ -125,7 +128,7 @@ Propose changesの欄に編集内容を記入する
 
 ---
 
-### 5. Webブラウザ上でポチポチ操作する
+### 5. Webブラウザ上でポチポチ操作
 
 右下の「Create pull request」をクリックする
 
@@ -133,7 +136,7 @@ Propose changesの欄に編集内容を記入する
 
 ---
 
-### 6. あら簡単 Pull Requestの出来上がり！
+### 6. Pull Requestの出来上がり！
 
 ![github-pulls.png](assets/github-pulls.png)
 
