@@ -167,7 +167,7 @@ Propose changesの欄に編集内容を記入する
 +++
 
 Pull Request画面の  
-from <font color="aliceblue">(ユーザ名):patch-1</font>  
+from <font color="steelblue">(ユーザ名):patch-1</font>  
 をクリック
 
 <img src="assets/github-pulls_link.png" width="70%"/>
