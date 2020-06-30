@@ -149,7 +149,8 @@ Propose changesの欄に編集内容を記入する
 
 ---
 
-### 管理者がマージするまでしばらく そのままお待ちください
+### 中のヒトが変更を確認・承認するまで
+### そのまましばらくお待ちください
 
 #### m(\_ \_)m
 
@@ -218,10 +219,9 @@ https://algyan.github.io/#members
 
 ### ちなみに，，，
 
+これで晴れて！  
 あなたも<font color="coral">あるじゃん公式Webサイト</font>の  
-Contributorsの一員に！！
-
-https://github.com/algyan/algyan.github.io/graphs/contributors
+[Contributorsの一員](https://github.com/algyan/algyan.github.io/graphs/contributors)に！！
 
 ---
 
@@ -231,7 +231,7 @@ https://github.com/algyan/algyan.github.io/graphs/contributors
 
 LGMT! 役に立ったありがとう！
 
-Starが増えると中のヒトは喜びます
+Starが増えると中のヒトタチは喜びます
 
 <img src="assets/github-star.png" width="70%"/>
 
