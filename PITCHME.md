@@ -185,9 +185,9 @@ from <font color="aliceblue">(ユーザ名):patch-1</font>
 ### 2. branchの作成 
 
 `patch-1`という名前のbranchが作成されている  
-`15 commits`というところを開くとログも見れる
+`XX commits`というところを開くとログも見られる
 
-<img src="assets/github-fork.png" width="70%"/>
+<img src="assets/github-branch.png" width="70%"/>
 
 +++
 
