@@ -97,8 +97,6 @@ https://github.com/algyan/algyan.github.io
 
 Propose changesの欄に編集内容を記入する  
 (編集せずに飛ばしても良い)
-- 1つめはlogに残る 短く分かりやすいと良い
-- 2つめは，補足の説明をなるべく詳細に書く
 
 <img src="assets/github-index_edit5.png" width="70%"/>
 
@@ -106,7 +104,16 @@ Propose changesの欄に編集内容を記入する
 
 ### 5. Webブラウザ上でポチポチ操作
 
-緑色の「Propose changes」をクリックする
+- 1つめは短く分かりやすいと良い
+- 2つめは補足説明があればなるべく書く
+
+<img src="assets/github-index_edit5.png" width="70%"/>
+
+---
+
+### 5. Webブラウザ上でポチポチ操作
+
+緑色の「<font color="green">Propose changes</font>」をクリックする
 
 <img src="assets/github-propose_changes.png" width="70%"/>
 
@@ -114,7 +121,7 @@ Propose changesの欄に編集内容を記入する
 
 ### 5. Webブラウザ上でポチポチ操作
 
-緑色の「✔ Able to merge.」が表示されていることを確認する
+「<font color="green"> ✔ Able to merge.</font>」が表示されていることを確認する
 
 <img src="assets/github-comparing_change.png" width="70%"/>
 
@@ -122,7 +129,7 @@ Propose changesの欄に編集内容を記入する
 
 ### 5. Webブラウザ上でポチポチ操作
 
-緑色の「Create pull request」をクリックする
+「<font color="green">Create pull request</font>」をクリックする
 
 <img src="assets/github-create_pull_request1.png" width="70%"/>
 
@@ -130,7 +137,7 @@ Propose changesの欄に編集内容を記入する
 
 ### 5. Webブラウザ上でポチポチ操作
 
-右下の「Create pull request」をクリックする
+次に右下の「<font color="green">Create pull request</font>」をクリックする
 
 <img src="assets/github-create_pull_request2.png" width="70%"/>
 
