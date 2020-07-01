@@ -8,7 +8,7 @@ IoTあるじゃん主催
 ---
 
 @snap[midpoint span-55]
-### <font color="green">@takasehideki</font>
+## <font color="green">@takasehideki</font>
 @snapend
 
 @snap[north-west span-45]
