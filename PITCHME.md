@@ -225,6 +225,18 @@ https://algyan.github.io/#members
 
 ---
 
+### Webサイト構築に参加しよう！
+
+みんなで叡智を結集しよう！
+
+現在の中のヒトはWebサイト作成やCSSやGitHub Pagesの知識に疎めなため，とっても助かります^^;
+
+https://github.com/algyan/algyan.github.io/issues
+
+
+
+---
+
 ### 最後に大事なこと！
 
 #### GitHubのリポジトリにStarを付けよう
