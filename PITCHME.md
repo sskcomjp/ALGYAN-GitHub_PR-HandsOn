@@ -369,7 +369,7 @@ Starが増えると中のヒトタチは喜びます
 
 +++
 
-[GitHub Pages](https://pages.github.com/)を使っています
+### [GitHub Pages](https://pages.github.com/)を使っています
 
 - 簡単に言えば，GitHubリポジトリにpushした内容がそのままホームページとしてdeployできます．
 - htmlやcssをそのままpushしてもOK
@@ -401,11 +401,11 @@ https://algyan.github.io/old/index.html
 ### 自分のGitHub Pagesを作りたい！
 
 1. 自身のアカウントに `<ユーザ名>.github.io` のリポジトリを作る
-1. `index.html`または`index.md`をadd, commit, pushする
-  - TOPページは `index.md` > `README.md` > `index.html` の順番で有線されるので注意
+1. `index.html`または`index.md`をadd, commit, push
+  - TOPページは `index.md` > `README.md` > `index.html` の順番で優先されるので注意
 1. 必要に応じてよしなにcssやThemeを用意する
 
-これだけで `https://<ユーザ名>.github.io` にdeployされる！！ 
+これだけで `https://<ユーザ名>.github.io` ができる！！ 
 
 +++
 
@@ -415,10 +415,10 @@ https://algyan.github.io/old/index.html
 1. Settings > GitHub Pages
   - Sourceを選ぶ
     - 基本はmaster
-    - そのリポジトリの説明ページなら`docs/`を作って指定もアリ
+    - `docs/`を作って指定するのもアリ
   - 必要に応じてThemeを選択する
 
-これだけで `https://<ユーザ名>.github.io/<リポジトリ名>` にdeployされる！！ 
+`https://<ユーザ名>.github.io/<リポジトリ名>` ができる！！ 
 
 +++
 
@@ -426,9 +426,9 @@ https://algyan.github.io/old/index.html
 
 - [TOPPERS/Hakoniwa](https://toppers.github.io/hakoniwa)
   - `web`ブランチでWebサイトのソースを管理
-  - [Hugo](https://gohugo.io/)を使って`gh-pages`ブランチに静的サイトを生成
+  - [Hugo](https://gohugo.io/)を使って`gh-pages`に静的サイトを生成
 - [SWEST](https://swest.toppers.jp)
-  - 運営用のプレビューページに`gh-pages`ブランチを利用
+  - 運営用のプレビューページに`gh-pages`を利用
   - 独自ドメインにもdeployできる
 - [Seeed K.K. Wiki](https://seeedjp.github.io/Wiki)
   - [Slate theme](https://pages-themes.github.io/slate/)にメニューバーを追加
