@@ -229,7 +229,7 @@ https://algyan.github.io/#members
 
 Webサイト構築に参加しよう！
 
-みんなで叡智を結集しよう！
+みんなで英知を結集しよう！
 
 https://github.com/algyan/algyan.github.io/issues
 
