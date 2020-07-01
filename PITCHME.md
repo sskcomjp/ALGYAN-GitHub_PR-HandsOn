@@ -12,12 +12,12 @@ IoTあるじゃん主催
 @snapend
 
 @snap[north-west span-75]
-<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-twitter.jpg" width="40%"/>
-<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="40%"/>
+<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-twitter.jpg" width="30%"/>
+<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="30%"/>
 @snapend
 
 @snap[north-east span-75]
-<a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="200%"/></a>
+<a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="130%"/></a>
 @snapend
 
 @snap[south-east span-45]
@@ -29,10 +29,9 @@ IoTあるじゃん主催
 
 @snap[south-west span-75]
 #### Organizations & Contributions
-
 - [tlk-emb](https://github.com/tlk-emb)  
 - [ALGYAN](https://github.com/algyan)  
-  - 関西支部長代行補佐  
+　- 関西支部長代行補佐  
 - [toppers](https://github.com/toppers)  
 - [rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)  
 - [NervesJP](https://github.com/nervesjp)
