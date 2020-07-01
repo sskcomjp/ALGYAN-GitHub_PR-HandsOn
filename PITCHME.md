@@ -291,7 +291,7 @@ Propose changesの欄に編集内容を記入する
 +++
 
 Pull Request画面の  
-from <font color="steelblue">(ユーザ名):patch-1</font>  
+from <font color="steelblue">(アカウント名):patch-1</font>  
 をクリック
 
 <img src="assets/github-pulls_link.png" width="70%"/>
@@ -363,13 +363,13 @@ Starが増えると中のヒトタチは喜びます
 
 ## わんもあしんぐ,,,
 
-どうやってGitHubとMarkdownでWebサイトを作っているの？
+どうやってGitHubでWebサイトを作っているの？
 
 時間と興味があれば↓へ！
 
 +++
 
-### [GitHub Pages](https://pages.github.com/)を使っています
+### [GitHub Pages](https://pages.github.com)を使っています
 
 - 簡単に言えば，GitHubリポジトリにpushした内容がそのままホームページとしてdeployできます．
 - htmlやcssをそのままpushしてもOK
@@ -400,12 +400,12 @@ https://algyan.github.io/old/index.html
 
 ### 自分のGitHub Pagesを作りたい！
 
-1. 自身のアカウントに `<ユーザ名>.github.io` のリポジトリを作る
+1. 自身のアカウントに `<アカウント名>.github.io` のリポジトリを作る
 1. `index.html`または`index.md`をadd, commit, push
   - TOPページは `index.md` > `README.md` > `index.html` の順番で優先されるので注意
 1. 必要に応じてよしなにcssやThemeを用意する
 
-これだけで `https://<ユーザ名>.github.io` ができる！！ 
+これだけで `https://<アカウント名>.github.io` ができる！！ 
 
 +++
 
@@ -418,7 +418,7 @@ https://algyan.github.io/old/index.html
     - `docs/`を作って指定するのもアリ
   - 必要に応じてThemeを選択する
 
-`https://<ユーザ名>.github.io/<リポジトリ名>` ができる！！ 
+`https://<アカウント名>.github.io/<リポジトリ名>` ができる！！ 
 
 +++
 
@@ -455,6 +455,46 @@ https://seeedjp.github.io/Wiki
 
 <a href="https://seeedjp.github.io/Wiki"><img src="assets/gitpages-seeedkk.png" width="80%"/></a>
 
+---
+
+## あんど，わんもあしんぐ,,,
+
+このスライド，カッコよくね？？
+
+時間と興味があれば↓へ！
+
++++
+
+### [GitPitch](https://gitpitch.com)を使っています
+
+- 必要なのはGitHubアカウントとMarkdownファイルだけ！
+- このスライドは[ココ](https://github.com/takasehideki/ALGYAN-GitHub_PR-HandsOn)で作っています
+- [いろんな整形](https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/test)ができます
+- yamlでThemeやlogoの配置などが設定できます
+  - コダワルとキリがナイよ^^;
+
++++
+
+### どうやるの？？
+
+1. 自身のアカウントにリポジトリを作る
+1. `PITCH.md`を作成する
+1. Markdown記法で`PITCH.md`を編集する
+  - ローカルで編集してcommit & push
+  - Webブラウザ上でも編集可能！
+1. 必要に応じて`PITCH.yaml`を作ってコダワル
+
+これだけで `https://gitpitch.com/<アカウント名>/<リポジトリ名>` ができる！！ 
+
++++
+
+### GitPitchの参考にしたページ
+
+- 公式： https://gitpitch.com/
+- ときたまメディアサイト： https://green-wide-pot.com/web/gitpitch/
+- [kakisoft](https://github.com/kakisoft)さんの資料
+  - https://github.com/kakisoft/HowToUseGitPitch
+  - https://github.com/kakisoft/HowToUseGitPitch2
 
 ---
 
