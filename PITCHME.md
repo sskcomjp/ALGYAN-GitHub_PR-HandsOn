@@ -91,6 +91,7 @@ GitHubとは,,,
 
 <img src="assets/github-sns.png" width="80%"/>
 
+---
 
 ### あるじゃん公式WebサイトのMembersに名前を連ねよう！
 
