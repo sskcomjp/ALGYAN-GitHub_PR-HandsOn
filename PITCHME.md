@@ -7,19 +7,16 @@ IoTあるじゃん主催
 
 ---
 
-@snap[midpoint span-55]
+@snap[north span-55]
 ## <font color="green">@takasehideki</font>
-
-　　
-
 @snapend
 
-@snap[north-west span-50]
+@snap[west span-50]
 <img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-twitter.jpg" width="25%"/>
 <img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="25%"/>
 @snapend
 
-@snap[north-east span-65]
+@snap[east span-65]
 <a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="130%"/></a>
 @snapend
 
