@@ -1,3 +1,13 @@
+IoTあるじゃん主催  
+[今さら聞けないGitHubの使い方あれこれをやさしく学べる入門ハンズオンセミナー！](https://algyan.connpass.com/event/179698/)」  
+
+## ３．さぁ、今すぐ一緒に「ALGYANのWebサイト構築」に参加してみよう！
+
+### <font color="green">@takasehideki</font>
+
+---
+
+
 ### あるじゃん公式WebサイトのMembersに名前を連ねよう！
 
 https://algyan.github.io/#members
