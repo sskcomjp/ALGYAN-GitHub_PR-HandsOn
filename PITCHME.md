@@ -104,7 +104,11 @@ https://algyan.github.io
 
 ---
 
-<a href="https://algyan.github.io"><img src="assets/algyan-website.jpg" height="100%"/></a>
+<a href="https://algyan.github.io"><img src="assets/algyan-website1.jpg" width="100%"/></a>
+
+---
+
+<a href="https://algyan.github.io"><img src="assets/algyan-website2.jpg" width="100%"/></a>
 
 ---
 
