@@ -46,7 +46,7 @@ IoTあるじゃん主催
 <font size="6">
 <li>[toppers](https://github.com/toppers)
 <li>[rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)
-<li><font color="darkorange">[NervesJP](https://github.com/nervesjp)</font>
+<li>[NervesJP](https://github.com/nervesjp)
 </ul>
 </font>
 @snapend
@@ -60,6 +60,14 @@ IoTあるじゃん主催
 https://algyan.connpass.com/event/180192/
 
 <a href="https://algyan.connpass.com/event/180192/"><img src="assets/algyan-nervesjp.png" width="80%"/></a>
+
+---
+
+GitHubとは,,,
+### <font color="darkorange">コードを中心としたSNS</font>
+である！！？
+
+<img src="assets/github-sns.png" width="80%"/>
 
 ---
 
