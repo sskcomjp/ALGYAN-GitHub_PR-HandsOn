@@ -31,15 +31,17 @@ IoTあるじゃん主催
 
 @snap[south-west span-45]
 ### Organizations & Contributions
+<font size="5">
 <ul>
 <li>[tlk-emb](https://github.com/tlk-emb)
 <li>[ALGYAN](https://github.com/algyan)
 <ul>
-  <font size="5"><li>関西支部長代行補佐</font>
+  <li>関西支部長代行補佐
 </ul>
 <li>[toppers](https://github.com/toppers)
 <li>[rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)
 <li>[NervesJP](https://github.com/nervesjp)
+</font>
 </ul>
 @snapend
 
