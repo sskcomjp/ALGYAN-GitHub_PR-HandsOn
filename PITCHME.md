@@ -161,7 +161,8 @@ https://github.com/algyan/algyan.github.io
 
 ### 3. Webブラウザ上でindex.mdを開く
 
-`index.md` を選択して開く
+`index.md` を開く
+
 
 <img src="assets/github-index_open.png" width="70%"/>
 
