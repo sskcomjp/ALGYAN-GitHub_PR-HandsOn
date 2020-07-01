@@ -46,7 +46,7 @@ IoTあるじゃん主催
 <font size="6">
 <li>[toppers](https://github.com/toppers)
 <li>[rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)
-<li>[NervesJP](https://github.com/nervesjp)
+<li><font color="darkorange">[NervesJP](https://github.com/nervesjp)</font>
 </ul>
 </font>
 @snapend
