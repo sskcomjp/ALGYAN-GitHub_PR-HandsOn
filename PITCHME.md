@@ -14,8 +14,8 @@ IoTあるじゃん主催
 @snap[north-west span-45]
 　　
 
-<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-twitter.jpg" width="30%"/>
-<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="30%"/>
+<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-twitter.jpg" width="25%"/>
+<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="25%"/>
 @snapend
 
 @snap[north-east span-65]
