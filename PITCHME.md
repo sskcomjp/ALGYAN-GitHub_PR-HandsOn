@@ -82,6 +82,7 @@ GitHubとは,,,
 - ヒトサマのコードをいじるなんて,,, |
 - Issueってケチつけるの失じゃん,,, |
 - 編集提案を無視されたらどうしよう,,, |
+- そもそもどこに貢献したらいいの,,, |
 
 ---
 
@@ -90,6 +91,30 @@ GitHubとは,,,
 である！！？
 
 <img src="assets/github-sns.png" width="80%"/>
+
+---
+
+そんな~~コワガリな~~シャイなあなたに！！
+
+## <font color="darkorange">IoT ALGYAN 公式Webサイト</font>
+
+https://algyan.github.io
+
+皆さんの遊び場です！！
+
+---
+
+<a href="https://algyan.github.io"><img src="assets/algyan-website.png" width="100%"/></a>
+
+---
+
+使っているのは
+
+## GitHubとMarkdown
+
+だけです
+
+##### (詳細は後ほど)
 
 ---
 
