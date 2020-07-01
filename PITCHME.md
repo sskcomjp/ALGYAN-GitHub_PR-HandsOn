@@ -7,9 +7,11 @@ IoTあるじゃん主催
 
 ---
 
+@snap[north span-55]
 ### <font color="green">@takasehideki</font>
 
 <a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="80%"/></a>
+@snapend
 
 @snap[south-west span-55]
 #### Follow me!!
@@ -20,6 +22,7 @@ IoTあるじゃん主催
 
 @snap[south-east span-55]
 #### Organizations & Contributions
+
 - [tlk-emb](https://github.com/tlk-emb)
 - [ALGYAN](https://github.com/algyan)
   - 関西支部長代行補佐
