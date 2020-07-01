@@ -18,9 +18,11 @@ IoTあるじゃん主催
 <img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="25%"/>
 @snapend
 
-@snap[east span-75]
-<a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="130%"/></a>
+@snap[north-east span-75]
 <br>
+<br>
+<br>
+<a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="130%"/></a>
 @snapend
 
 @snap[south-east span-55]
