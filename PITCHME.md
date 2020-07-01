@@ -133,7 +133,7 @@ https://algyan.github.io/#members
 ### やること
 
 1. GitHubにログイン
-2. GitHub管理リポジトリにアクセス
+2. あるじゃん管理リポジトリにアクセス
 3. Webブラウザ上でindex.mdを開く
 4. index.mdを編集する
 5. Webブラウザ上でポチポチ操作する
@@ -151,7 +151,7 @@ https://github.com/login
 
 ---
 
-### 2. GitHub管理リポジトリにアクセス
+### 2. GitHubリポジトリにアクセス
 
 https://github.com/algyan/algyan.github.io
 
@@ -366,7 +366,7 @@ https://github.com/algyan/algyan.github.io/issues
 
 #### GitHubのリポジトリにStarを付けよう
 
-LGMT! 役に立ったありがとう！
+LGTM! 役に立ったありがとう！
 
 Starが増えると中のヒトタチは喜びます
 
