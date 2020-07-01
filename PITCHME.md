@@ -229,7 +229,7 @@ https://algyan.github.io/#members
 
 みんなで叡智を結集しよう！
 
-現在の中のヒトはWebサイト作成やCSSやGitHub Pagesの知識に疎めなため，とっても助かります^^;
+現在の中のヒトはWebサイト作成やCSSの知識に疎めなため，とっても助かります^^;
 
 https://github.com/algyan/algyan.github.io/issues
 
