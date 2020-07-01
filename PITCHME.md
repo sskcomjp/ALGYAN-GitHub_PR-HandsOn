@@ -10,18 +10,18 @@ IoTあるじゃん主催
 @snap[north span-55]
 ### <font color="green">@takasehideki</font>
 
-<a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="80%"/></a>
+<a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="120%"/></a>
 @snapend
 
 @snap[south-west span-55]
-#### Follow me!!
+### Follow me!!
 <a href="https://github.com/takasehideki"><img src="https://algyan.github.io/img/github.png" width="20%"/></a>
 <a href="https://twitter.com/takasehideki"><img src="https://algyan.github.io/img/twitter.png" width="20%"/></a>
 <a href="https://facebook.com/takasehideki"><img src="https://algyan.github.io/img/facebook.png" width="20%"/></a>
 @snapend
 
-@snap[south-east span-55]
-#### Organizations & Contributions
+@snap[south-east span-25]
+### Organizations & Contributions
 
 - [tlk-emb](https://github.com/tlk-emb)
 - [ALGYAN](https://github.com/algyan)
