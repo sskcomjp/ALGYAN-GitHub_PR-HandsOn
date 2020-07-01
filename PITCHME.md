@@ -245,9 +245,10 @@ LGMT! 役に立ったありがとう！
 
 Starが増えると中のヒトタチは喜びます
 
+<img src="assets/github-star.png" width="70%"/>
+
 ---
 
-<img src="assets/github-star.png" width="70%"/>
 GitHubとは,,,
 ### <font color="darkorange">**コードを中心としたSNS**</font>
 である！！！
