@@ -7,7 +7,7 @@ IoTあるじゃん主催
 
 ---
 
-@snap[north span-55]
+@snap[midpoint span-55]
 ### <font color="green">@takasehideki</font>
 @snapend
 
@@ -31,7 +31,7 @@ IoTあるじゃん主催
 #### Organizations & Contributions
 - [tlk-emb](https://github.com/tlk-emb)  
 - [ALGYAN](https://github.com/algyan)  
-　<font size="-2">- 関西支部長代行補佐  </font>
+　<font size="70%">- 関西支部長代行補佐</font>  
 - [toppers](https://github.com/toppers)  
 - [rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)  
 - [NervesJP](https://github.com/nervesjp)
