@@ -406,7 +406,7 @@ https://algyan.github.io/old/index.html
 1. Settings > GitHub Pages
   - Sourceにmasterを選択
   - [Cayman theme](https://pages-themes.github.io/cayman/)をベースとして選択
-1. `config.yml`にtitle,descriptionを追加
+1. `config.yml`にtitle, descriptionを追加
 1. `_layouts/default.html`を追加してlogo画像をthemeに埋込み
 
 +++
