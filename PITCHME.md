@@ -32,7 +32,7 @@ IoTあるじゃん主催
 <a href="https://facebook.com/takasehideki"><img src="https://algyan.github.io/img/f_logo_RGB-Hex-Blue_512.png" width="25%"/></a>
 @snapend
 
-@snap[south-west span-45]
+@snap[south-west span-65]
 #### Organizations & Contributions
 <font size="6">
 <ul>
