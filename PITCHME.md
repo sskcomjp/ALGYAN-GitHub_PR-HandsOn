@@ -219,9 +219,9 @@ https://algyan.github.io/#members
 
 ### ちなみに,,,
 
-これで晴れて！  
+これで晴れて！！  
 あなたも<font color="coral">あるじゃん公式Webサイト</font>の  
-[Contributorsの一員](https://github.com/algyan/algyan.github.io/graphs/contributors)に！！
+[Contributorsの一員](https://github.com/algyan/algyan.github.io/graphs/contributors)に！
 
 ---
 
