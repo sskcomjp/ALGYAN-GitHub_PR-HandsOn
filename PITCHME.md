@@ -341,7 +341,7 @@ https://algyan.github.io/#members
 
 ---
 
-### ちなみに，，，
+### ちなみに,,,
 
 これで晴れて！  
 あなたも<font color="coral">あるじゃん公式Webサイト</font>の  
@@ -405,7 +405,7 @@ https://algyan.github.io/old/index.html
   - TOPページは `index.md` > `README.md` > `index.html` の順番で優先されるので注意
 1. 必要に応じてよしなにcssやThemeを用意する
 
-これだけで `https://<アカウント名>.github.io` ができる！！ 
+これだけで `https://<アカウント名>.github.io` が！！ 
 
 +++
 
@@ -418,7 +418,7 @@ https://algyan.github.io/old/index.html
     - `docs/`を作って指定するのもアリ
   - 必要に応じてThemeを選択する
 
-`https://<アカウント名>.github.io/<リポジトリ名>` ができる！！ 
+`https://<アカウント名>.github.io/<リポジトリ名>` が！ 
 
 +++
 
