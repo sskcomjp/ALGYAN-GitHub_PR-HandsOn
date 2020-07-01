@@ -10,25 +10,31 @@ IoTあるじゃん主催
 @snap[north span-55]
 ### <font color="green">@takasehideki</font>
 
+@snap[north-west span-45]
+<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="25%"/>
+<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-twitter.jpg" width="25%"/>
+@snapend
+
+@snap[north-east span-45]
 <a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="120%"/></a>
 @snapend
 
-@snap[south-west span-55]
+@snap[south-west span-45]
 ### Follow me!!
-<a href="https://github.com/takasehideki"><img src="https://algyan.github.io/img/GitHub-Mark-120px-plus.png" width="20%"/></a>
-<a href="https://twitter.com/takasehideki"><img src="https://algyan.github.io/img/Twitter_Social_Icon_Circle_Color.png" width="20%"/></a>
-<a href="https://facebook.com/takasehideki"><img src="https://algyan.github.io/img/f_logo_RGB-Hex-Blue_512.png" width="20%"/></a>
+<a href="https://github.com/takasehideki"><img src="https://algyan.github.io/img/GitHub-Mark-120px-plus.png" width="25%"/></a>
+<a href="https://twitter.com/takasehideki"><img src="https://algyan.github.io/img/Twitter_Social_Icon_Circle_Color.png" width="25%"/></a>
+<a href="https://facebook.com/takasehideki"><img src="https://algyan.github.io/img/f_logo_RGB-Hex-Blue_512.png" width="25%"/></a>
 @snapend
 
 @snap[south-east span-75]
 #### Organizations & Contributions
 
-* [tlk-emb](https://github.com/tlk-emb)  
-* [ALGYAN](https://github.com/algyan)  
-  * 関西支部長代行補佐  
-* [toppers](https://github.com/toppers)  
-* [rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)  
-* [NervesJP](https://github.com/nervesjp)
+- [tlk-emb](https://github.com/tlk-emb)  
+- [ALGYAN](https://github.com/algyan)  
+  - 関西支部長代行補佐  
+- [toppers](https://github.com/toppers)  
+- [rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)  
+- [NervesJP](https://github.com/nervesjp)
 @snapend
 
 ---
