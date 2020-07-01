@@ -14,10 +14,20 @@ IoTあるじゃん主催
 @snap[west span-50]
 <img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-twitter.jpg" width="25%"/>
 <img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="25%"/>
+　　
+
+　　
+
+　　
+
 @snapend
 
 @snap[east span-65]
 <a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="130%"/></a>
+　　
+
+　　
+
 @snapend
 
 @snap[south-east span-55]
