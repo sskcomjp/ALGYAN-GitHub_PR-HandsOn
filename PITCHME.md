@@ -453,7 +453,7 @@ https://toppers.github.io/hakoniwa
 
 https://seeedjp.github.io/Wiki
 
-<a href="https://seeedjp.github.io/Wiki"><img src="assets/gitpages-swest.png" width="80%"/></a>
+<a href="https://seeedjp.github.io/Wiki"><img src="assets/gitpages-seeedkk.png" width="80%"/></a>
 
 
 ---
