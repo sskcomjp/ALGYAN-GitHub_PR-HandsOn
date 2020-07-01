@@ -72,13 +72,17 @@ GitHubとは,,,
 
 ---
 
-GitHubとは,,,
-### <font color="darkorange">**コードを中心としたSNS**</font>
-である！！？
-
-<img src="assets/github-sns.png" width="80%"/>
+でも,,,
+### OSSコワクナイ？？
 
 ---
+
+- 勝手にパクったら怒られるんじゃ,,, |
+- ヒトサマのコードをいじるなんて,,, |
+- OSSライセンス，よくわからない,,, |
+- Issueってケチつける失礼なんじゃ,,, |
+- 編集提案を無視されたらどうしよう,,, |
+
 
 ### あるじゃん公式WebサイトのMembersに名前を連ねよう！
 
@@ -316,4 +320,12 @@ LGMT! 役に立ったありがとう！
 Starが増えると中のヒトタチは喜びます
 
 <img src="assets/github-star.png" width="70%"/>
+
+---
+
+GitHubとは,,,
+### <font color="darkorange">**コードを中心としたSNS**</font>
+である！！！
+
+<img src="assets/github-sns.png" width="80%"/>
 
