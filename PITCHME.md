@@ -225,11 +225,11 @@ https://algyan.github.io/#members
 
 ---
 
-### Webサイト構築に参加しよう！
+### What's next??
+
+Webサイト構築に参加しよう！
 
 みんなで叡智を結集しよう！
-
-現在の中のヒトはWebサイト作成やCSSの知識に疎めなため，とっても助かります^^;
 
 https://github.com/algyan/algyan.github.io/issues
 
