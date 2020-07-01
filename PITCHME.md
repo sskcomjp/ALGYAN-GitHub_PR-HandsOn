@@ -35,7 +35,7 @@ IoTあるじゃん主催
 <li>[tlk-emb](https://github.com/tlk-emb)
 <li>[ALGYAN](https://github.com/algyan)
 <ul>
-  <li><font size="2">関西支部長代行補佐</font>
+  <font size="5"><li>関西支部長代行補佐</font>
 </ul>
 <li>[toppers](https://github.com/toppers)
 <li>[rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)
