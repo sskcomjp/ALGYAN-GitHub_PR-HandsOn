@@ -20,8 +20,8 @@ IoTあるじゃん主催
 <a href="https://facebook.com/takasehideki"><img src="https://algyan.github.io/img/facebook.png" width="20%"/></a>
 @snapend
 
-@snap[south-east span-25]
-### Organizations & Contributions
+@snap[south-east span-75]
+#### Organizations & Contributions
 
 - [tlk-emb](https://github.com/tlk-emb)
 - [ALGYAN](https://github.com/algyan)
