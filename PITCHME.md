@@ -100,7 +100,7 @@ GitHubとは,,,
 
 https://algyan.github.io
 
-皆さんの遊び場です！！
+皆さんで育てていきましょう！！
 
 ---
 
