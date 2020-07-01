@@ -233,7 +233,7 @@ https://algyan.github.io/#members
 
 https://github.com/algyan/algyan.github.io/issues
 
-
+<img src="assets/github-issue.png" width="70%"/>
 
 ---
 
