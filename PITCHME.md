@@ -167,7 +167,7 @@ Propose changesの欄に編集内容を記入する
 +++
 
 Pull Request画面の  
-from <font color="steelblue">(ユーザ名):patch-1</font>  
+from <font color="steelblue">(アカウント名):patch-1</font>  
 をクリック
 
 <img src="assets/github-pulls_link.png" width="70%"/>
@@ -217,7 +217,7 @@ https://algyan.github.io/#members
 
 ---
 
-### ちなみに，，，
+### ちなみに,,,
 
 これで晴れて！  
 あなたも<font color="coral">あるじゃん公式Webサイト</font>の  
@@ -233,5 +233,12 @@ LGMT! 役に立ったありがとう！
 
 Starが増えると中のヒトタチは喜びます
 
+---
+
 <img src="assets/github-star.png" width="70%"/>
+GitHubとは,,,
+### <font color="darkorange">**コードを中心としたSNS**</font>
+である！！！
+
+<img src="assets/github-sns.png" width="80%"/>
 
