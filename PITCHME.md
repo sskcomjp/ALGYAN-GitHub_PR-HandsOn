@@ -83,6 +83,14 @@ GitHubとは,,,
 - Issueってケチつける失礼なんじゃ,,, |
 - 編集提案を無視されたらどうしよう,,, |
 
+---
+
+GitHubとは,,,
+### <font color="darkorange">**コードを中心としたSNS**</font>
+である！！？
+
+<img src="assets/github-sns.png" width="80%"/>
+
 
 ### あるじゃん公式WebサイトのMembersに名前を連ねよう！
 
