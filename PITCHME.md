@@ -8,6 +8,14 @@ IoTあるじゃん主催
 ---
 
 
+#### ＿人人人人人人人人＿
+#### ＞　突然のステマ　＜
+#### ￣Y^Y^Y^Y^Y^Y^Y^Y￣
+
+https://algyan.connpass.com/event/180192/
+
+<a href="https://algyan.connpass.com/event/180192/"><img src="assets/algyan-nervesjp.png" width="80%"/></a>
+
 ### あるじゃん公式WebサイトのMembersに名前を連ねよう！
 
 https://algyan.github.io/#members
