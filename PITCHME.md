@@ -64,6 +64,15 @@ https://algyan.connpass.com/event/180192/
 ---
 
 GitHubとは,,,
+### みんなでコードを育てる場
+である！！
+
+- [都の新型コロナ対策サイト、オープンソースで“派生版”続々誕生　全国で30以上、高専生も開発に参加](https://www.itmedia.co.jp/news/articles/2003/23/news130.html)
+- [JKが東京都のコロナ対策サイトに貢献した話。OSSに貢献しよう！](https://qiita.com/Anharu/items/572f5f6c30c6edbec349)
+
+---
+
+GitHubとは,,,
 ### <font color="darkorange">**コードを中心としたSNS**</font>
 である！！？
 
