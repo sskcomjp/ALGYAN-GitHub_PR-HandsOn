@@ -349,6 +349,18 @@ https://algyan.github.io/#members
 
 ---
 
+### What's next??
+
+Webサイト構築に参加しよう！
+
+みんなで叡智を結集しよう！
+
+https://github.com/algyan/algyan.github.io/issues
+
+<a href="https://github.com/algyan/algyan.github.io/issues"><img src="assets/github-issue.png" width="60%"/></a>
+
+---
+
 ### 最後に大事なこと！
 
 #### GitHubのリポジトリにStarを付けよう
@@ -503,4 +515,3 @@ GitHubとは,,,
 である！！！
 
 <img src="assets/github-sns.png" width="80%"/>
-
