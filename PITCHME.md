@@ -96,7 +96,7 @@ GitHubとは,,,
 
 そんな~~コワガリな~~シャイなあなたに！！
 
-## <font color="darkorange">IoT ALGYAN 公式Webサイト</font>
+## <font color="darkorange">IoT ALGYAN公式Webサイト</font>
 
 https://algyan.github.io
 
@@ -104,7 +104,7 @@ https://algyan.github.io
 
 ---
 
-<a href="https://algyan.github.io"><img src="assets/algyan-website.png" width="100%"/></a>
+<a href="https://algyan.github.io"><img src="assets/algyan-website.jpg" width="100%"/></a>
 
 ---
 
