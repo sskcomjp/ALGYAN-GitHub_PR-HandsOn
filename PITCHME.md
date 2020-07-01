@@ -7,6 +7,28 @@ IoTあるじゃん主催
 
 ---
 
+### <font color="green">@takasehideki</font>
+
+<a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="80%"/></a>
+
+@snap[south-west span-55]
+#### Follow me!!
+<a href="https://github.com/takasehideki"><img src="https://algyan.github.io/img/github.png" width="20%"/></a>
+<a href="https://twitter.com/takasehideki"><img src="https://algyan.github.io/img/twitter.png" width="20%"/></a>
+<a href="https://facebook.com/takasehideki"><img src="https://algyan.github.io/img/facebook.png" width="20%"/></a>
+@snapend
+
+@snap[south-east span-55]
+#### Organizations & Contributions
+- [tlk-emb](https://github.com/tlk-emb)
+- [ALGYAN](https://github.com/algyan)
+  - 関西支部長代行補佐
+- [toppers](https://github.com/toppers)
+- [rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)
+- [NervesJP](https://github.com/nervesjp)
+@snapend
+
+---
 
 #### ＿人人人人人人人人＿
 #### ＞　突然のステマ　＜
@@ -15,6 +37,8 @@ IoTあるじゃん主催
 https://algyan.connpass.com/event/180192/
 
 <a href="https://algyan.connpass.com/event/180192/"><img src="assets/algyan-nervesjp.png" width="80%"/></a>
+
+---
 
 ### あるじゃん公式WebサイトのMembersに名前を連ねよう！
 
