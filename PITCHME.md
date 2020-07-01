@@ -29,14 +29,18 @@ IoTあるじゃん主催
 <a href="https://facebook.com/takasehideki"><img src="https://algyan.github.io/img/f_logo_RGB-Hex-Blue_512.png" width="25%"/></a>
 @snapend
 
-@snap[south-west span-65]
-#### Organizations & Contributions
-- [tlk-emb](https://github.com/tlk-emb)  
-- [ALGYAN](https://github.com/algyan)  
-　<font size="smaller">- 関西支部長代行補佐</font>  
-- [toppers](https://github.com/toppers)  
-- [rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)  
-- [NervesJP](https://github.com/nervesjp)
+@snap[south-west span-45]
+### Organizations & Contributions
+<ul>
+<li>[tlk-emb](https://github.com/tlk-emb)
+<li>[ALGYAN](https://github.com/algyan)
+<ul>
+  <li><font size="smaller">- 関西支部長代行補佐</font>
+</ul>
+<li>[toppers](https://github.com/toppers)
+<li>[rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)
+<li>[NervesJP](https://github.com/nervesjp)
+</ul>
 @snapend
 
 ---
