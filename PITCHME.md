@@ -95,7 +95,15 @@ https://github.com/algyan/algyan.github.io
 
 ### 5. Webブラウザ上でポチポチ操作
 
-Propose changesの欄に編集内容を記入する
+Propose changesの欄に編集内容を記入する  
+(編集せずに飛ばしても良い)
+
+<img src="assets/github-index_edit5.png" width="70%"/>
+
+---
+
+### 5. Webブラウザ上でポチポチ操作
+
 - 1つめは短く分かりやすいと良い
 - 2つめは補足説明があればなるべく書く
 
