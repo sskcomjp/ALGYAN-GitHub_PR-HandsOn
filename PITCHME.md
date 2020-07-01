@@ -1,3 +1,127 @@
+IoTあるじゃん主催  
+[今さら聞けないGitHubの使い方あれこれをやさしく学べる入門ハンズオンセミナー！](https://algyan.connpass.com/event/179698/)  
+
+## ３．さぁ、今すぐ一緒に<font color="darkorange">ALGYANのWebサイト構築</font>に参加してみよう！
+
+### <font color="green">@takasehideki</font>
+
+---
+
+@snap[north span-55]
+## <font color="green">@takasehideki</font>
+@snapend
+
+@snap[north-east span-50]
+<br>
+<br>
+<br>
+<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-twitter.jpg" width="25%"/>
+<img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="25%"/>
+@snapend
+
+@snap[north-west span-75]
+<br>
+<br>
+<a href="https://github.com/takasehideki"><img src="assets/github-chart.png" width="130%"/></a>
+@snapend
+
+@snap[south-east span-55]
+### Follow me!!
+<a href="https://github.com/takasehideki"><img src="https://algyan.github.io/img/GitHub-Mark-120px-plus.png" width="25%"/></a>
+<a href="https://twitter.com/takasehideki"><img src="https://algyan.github.io/img/Twitter_Social_Icon_Circle_Color.png" width="25%"/></a>
+<a href="https://facebook.com/takasehideki"><img src="https://algyan.github.io/img/f_logo_RGB-Hex-Blue_512.png" width="25%"/></a>
+@snapend
+
+@snap[south-west span-65]
+#### Organization & Contribution
+<font size="6">
+<ul>
+<li>[tlk-emb](https://github.com/tlk-emb)
+<li>[ALGYAN](https://github.com/algyan)
+<font size="5">
+<ul>
+  <li>関西支部長代行補佐
+</ul>
+</font>
+<font size="6">
+<li>[toppers](https://github.com/toppers)
+<li>[rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)
+<li>[NervesJP](https://github.com/nervesjp)
+</ul>
+</font>
+@snapend
+
+---
+
+#### ＿人人人人人人人人＿
+#### ＞　突然のステマ　＜
+#### ￣Y^Y^Y^Y^Y^Y^Y^Y￣
+
+https://algyan.connpass.com/event/180192/
+
+<a href="https://algyan.connpass.com/event/180192/"><img src="assets/algyan-nervesjp.png" width="80%"/></a>
+
+---
+
+GitHubとは,,,
+### みんなでコードを育てる場
+である！！
+
+- [都の新型コロナ対策サイト、オープンソースで“派生版”続々誕生　全国で30以上、高専生も開発に参加](https://www.itmedia.co.jp/news/articles/2003/23/news130.html)
+- [JKが東京都のコロナ対策サイトに貢献した話。OSSに貢献しよう！](https://qiita.com/Anharu/items/572f5f6c30c6edbec349)
+
+---
+
+でも,,,
+### OSSコワクナイ？？
+
+---
+
+- 勝手にパクったら怒られるんじゃ,,, |
+- OSSライセンス，よくわからない,,, |
+- ヒトサマのコードをいじるなんて,,, |
+- Issueってケチつけるの失礼じゃん,,, |
+- 編集提案を無視されたらどうしよう,,, |
+- そもそもどこに貢献したらいいの,,, |
+
+---
+
+GitHubとは,,,
+### <font color="darkorange">**コードを中心としたSNS**</font>
+である！！？
+
+<img src="assets/github-sns.png" width="80%"/>
+
+---
+
+そんな~~コワガリな~~シャイなあなたに！！
+
+## <font color="darkorange">IoT ALGYAN公式Webサイト</font>
+
+https://algyan.github.io
+
+皆さんで育てていきましょう！！
+
+---
+
+<a href="https://algyan.github.io"><img src="assets/algyan-website1.jpg" width="80%"/></a>
+
+---
+
+<a href="https://algyan.github.io"><img src="assets/algyan-website2.jpg" width="80%"/></a>
+
+---
+
+使っているのは
+
+## GitHubとMarkdown
+
+だけです
+
+##### (詳細は後ほど)
+
+---
+
 ### あるじゃん公式WebサイトのMembersに名前を連ねよう！
 
 https://algyan.github.io/#members
@@ -249,9 +373,145 @@ Starが増えると中のヒトタチは喜びます
 
 ---
 
+## わんもあしんぐ,,,
+
+どうやってGitHubでWebサイトを作っているの？
+
+時間と興味があれば↓へ！
+
++++
+
+### [GitHub Pages](https://pages.github.com)を使っています
+
+- 簡単に言えば，GitHubリポジトリにpushした内容がそのままホームページとしてdeployできます．
+- htmlやcssをそのままpushしてもOK
+- MarkdownファイルをpushしてもOK
+  - 静的サイト生成に[Jekyll](https://jekyllrb.com/)がよろしくしてくれます
+  - [整形用のテーマ](https://pages.github.com/themes/)を選ぶこともできます
+
++++
+
+ちなみに過去はこんなのでした,,,
+
+https://algyan.github.io/old/index.html
+
+<a href="https://algyan.github.io/old/index.html"><img src="assets/algyan-oldsite.png" width="80%"/></a>
+
++++
+
+### ALGYAN公式サイトの作り方
+
+1. `algyan/algyan.github.io` のリポジトリを作る
+1. `index.md`を作成してadd, commit, pushする
+1. Settings > GitHub Pages
+  - Sourceにmasterを選択
+  - [Cayman theme](https://pages-themes.github.io/cayman/)をベースとして選択
+1. `_layouts/default.html`を追加してlogo画像をthemeに埋込み
+
++++
+
+### 自分のGitHub Pagesを作りたい！
+
+1. 自身のアカウントに `<アカウント名>.github.io` のリポジトリを作る
+1. `index.html`または`index.md`をadd, commit, push
+  - TOPページは `index.md` > `README.md` > `index.html` の順番で優先されるので注意
+1. 必要に応じてよしなにcssやThemeを用意する
+
+これだけで `https://<アカウント名>.github.io` が！！ 
+
++++
+
+### リポジトリでもOK！
+
+1. 自身のアカウントに好きな名前のリポジトリを作る
+1. Settings > GitHub Pages
+  - Sourceを選ぶ
+    - 基本はmaster
+    - `docs/`を作って指定するのもアリ
+  - 必要に応じてThemeを選択する
+
+`https://<アカウント名>.github.io/<リポジトリ名>` が！ 
+
++++
+
+### こんなのができます！
+
+- [TOPPERS/Hakoniwa](https://toppers.github.io/hakoniwa)
+  - `web`ブランチでWebサイトのソースを管理
+  - [Hugo](https://gohugo.io/)を使って`gh-pages`に静的サイトを生成
+- [SWEST](https://swest.toppers.jp)
+  - 運営用のプレビューページに`gh-pages`を利用
+  - 独自ドメインにもdeployできる
+- [Seeed K.K. Wiki](https://seeedjp.github.io/Wiki)
+  - [Slate theme](https://pages-themes.github.io/slate/)にメニューバーを追加
+
+#### ＿人人人人人人人人＿
+#### ＞　突然のステマ　＜
+#### ￣Y^Y^Y^Y^Y^Y^Y^Y￣
+
++++
+
+https://toppers.github.io/hakoniwa
+
+<a href="https://toppers.github.io/hakoniwa"><img src="assets/gitpages-hakoniwa.png" width="80%"/></a>
+
++++
+
+https://toppers.github.io/hakoniwa
+
+<a href="https://swest.toppers.jp"><img src="assets/gitpages-swest.png" width="80%"/></a>
+
++++
+
+https://seeedjp.github.io/Wiki
+
+<a href="https://seeedjp.github.io/Wiki"><img src="assets/gitpages-seeedkk.png" width="80%"/></a>
+
+---
+
+## あんど，わんもあしんぐ,,,
+
+このスライド，カッコよくね？？
+
+時間と興味があれば↓へ！
+
++++
+
+### [GitPitch](https://gitpitch.com)を使っています
+
+- 必要なのはGitHubアカウントとMarkdownファイルだけ！
+- このスライドは[ココ](https://github.com/takasehideki/ALGYAN-GitHub_PR-HandsOn)で作っています
+- [いろんな整形](https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/test)ができます
+- yamlでThemeやlogoの配置などが設定できます
+  - コダワルとキリがナイよ^^;
+
++++
+
+### どうやるの？？
+
+1. 自身のアカウントにリポジトリを作る
+1. `PITCH.md`を作成する
+1. Markdown記法で`PITCH.md`を編集する
+  - ローカルで編集してcommit & push
+  - Webブラウザ上でも編集可能！
+1. 必要に応じて`PITCH.yaml`を作ってコダワル
+
+これだけで `https://gitpitch.com/<アカウント名>/<リポジトリ名>` ができる！！ 
+
++++
+
+### GitPitchの参考にしたページ
+
+- 公式： https://gitpitch.com/
+- ときたまメディアサイト： https://green-wide-pot.com/web/gitpitch/
+- [kakisoft](https://github.com/kakisoft)さんの資料
+  - https://github.com/kakisoft/HowToUseGitPitch
+  - https://github.com/kakisoft/HowToUseGitPitch2
+
+---
+
 GitHubとは,,,
 ### <font color="darkorange">**コードを中心としたSNS**</font>
 である！！！
 
 <img src="assets/github-sns.png" width="80%"/>
-
