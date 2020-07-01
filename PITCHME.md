@@ -31,7 +31,7 @@ IoTあるじゃん主催
 #### Organizations & Contributions
 - [tlk-emb](https://github.com/tlk-emb)  
 - [ALGYAN](https://github.com/algyan)  
-#####　- 関西支部長代行補佐  
+　<font size="-2">- 関西支部長代行補佐  </font>
 - [toppers](https://github.com/toppers)  
 - [rosjp](https://github.com/ros-japan-users/rosjp.connpass.com)  
 - [NervesJP](https://github.com/nervesjp)
