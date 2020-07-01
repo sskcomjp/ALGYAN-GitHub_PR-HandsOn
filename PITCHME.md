@@ -11,14 +11,14 @@ IoTあるじゃん主催
 ## <font color="green">@takasehideki</font>
 @snapend
 
-@snap[north-west span-50]
+@snap[north-east span-50]
 <br>
 <br>
 <img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-twitter.jpg" width="25%"/>
 <img src="http://www.tlk-emb.jp/images/uploaded/takasehideki-aloha.jpg" width="25%"/>
 @snapend
 
-@snap[north-east span-75]
+@snap[north-west span-75]
 <br>
 <br>
 <br>
@@ -33,7 +33,7 @@ IoTあるじゃん主催
 @snapend
 
 @snap[south-west span-65]
-#### Organizations & Contributions
+#### Organization & Contribution
 <font size="6">
 <ul>
 <li>[tlk-emb](https://github.com/tlk-emb)
