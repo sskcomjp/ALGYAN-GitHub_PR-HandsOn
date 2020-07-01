@@ -64,7 +64,7 @@ https://algyan.connpass.com/event/180192/
 ---
 
 GitHubとは,,,
-### <font color="darkorange">コードを中心としたSNS</font>
+### <font color="darkorange">**コードを中心としたSNS**</font>
 である！！？
 
 <img src="assets/github-sns.png" width="80%"/>
