@@ -361,6 +361,103 @@ Starが増えると中のヒトタチは喜びます
 
 ---
 
+## わんもあしんぐ,,,
+
+どうやってGitHubとMarkdownでWebサイトを作っているの？
+
+時間と興味があれば↓へ！
+
++++
+
+[GitHub Pages](https://pages.github.com/)を使っています
+
+- 簡単に言えば，GitHubリポジトリにpushした内容がそのままホームページとしてdeployできます．
+- htmlやcssをそのままpushしてもOK
+- MarkdownファイルをpushしてもOK
+  - 静的サイト生成に[Jekyll](https://jekyllrb.com/)がよろしくしてくれます
+  - [整形用のテーマ](https://pages.github.com/themes/)を選ぶこともできます
+
++++
+
+ちなみに過去はこんなのでした,,,
+
+https://algyan.github.io/old/index.html
+
+<a href="https://algyan.github.io/old/index.html"><img src="assets/algyan-oldsite.png" width="80%"/></a>
+
++++
+
+### ALGYAN公式サイトの作り方
+
+1. `algyan/algyan.github.io` のリポジトリを作る
+1. `index.md`を作成してadd, commit, pushする
+1. Settings > GitHub Pages
+  - Sourceにmasterを選択
+  - [Cayman theme](https://pages-themes.github.io/cayman/)をベースとして選択
+1. `_layouts/default.html`を追加してlogo画像をthemeに埋込み
+
++++
+
+### 自分のGitHub Pagesを作りたい！
+
+1. 自身のアカウントに `<ユーザ名>.github.io` のリポジトリを作る
+1. `index.html`または`index.md`をadd, commit, pushする
+  - TOPページは `index.md` > `README.md` > `index.html` の順番で有線されるので注意
+1. 必要に応じてよしなにcssやThemeを用意する
+
+これだけで `https://<ユーザ名>.github.io` にdeployされる！！ 
+
++++
+
+### リポジトリでもOK！
+
+1. 自身のアカウントに好きな名前のリポジトリを作る
+1. Settings > GitHub Pages
+  - Sourceを選ぶ
+    - 基本はmaster
+    - そのリポジトリの説明ページなら`docs/`を作って指定もアリ
+  - 必要に応じてThemeを選択する
+
+これだけで `https://<ユーザ名>.github.io/<リポジトリ名>` にdeployされる！！ 
+
++++
+
+### こんなのができます！
+
+- [TOPPERS/Hakoniwa](https://toppers.github.io/hakoniwa)
+  - `web`ブランチでWebサイトのソースを管理
+  - [Hugo](https://gohugo.io/)を使って`gh-pages`ブランチに静的サイトを生成
+- [SWEST](https://swest.toppers.jp)
+  - 運営用のプレビューページに`gh-pages`ブランチを利用
+  - 独自ドメインにもdeployできる
+- [Seeed K.K. Wiki](https://seeedjp.github.io/Wiki)
+  - [Slate theme](https://pages-themes.github.io/slate/)にメニューバーを追加
+
+#### ＿人人人人人人人人＿
+#### ＞　突然のステマ　＜
+#### ￣Y^Y^Y^Y^Y^Y^Y^Y￣
+
++++
+
+https://toppers.github.io/hakoniwa
+
+<a href="https://toppers.github.io/hakoniwa"><img src="assets/gitpages-hakoniwa.png" width="80%"/></a>
+
++++
+
+https://toppers.github.io/hakoniwa
+
+<a href="https://swest.toppers.jp"><img src="assets/gitpages-swest.png" width="80%"/></a>
+
++++
+
+https://seeedjp.github.io/Wiki
+
+<a href="https://seeedjp.github.io/Wiki"><img src="assets/gitpages-swest.png" width="80%"/></a>
+
+
+---
+
 GitHubとは,,,
 ### <font color="darkorange">**コードを中心としたSNS**</font>
 である！！！
