@@ -88,7 +88,7 @@ GitHubとは,,,
 
 GitHubとは,,,
 ### <font color="darkorange">**コードを中心としたSNS**</font>
-である！！？
+である！？？
 
 <img src="assets/github-sns.png" width="80%"/>
 
@@ -492,11 +492,11 @@ https://seeedjp.github.io/Wiki
 ### どうやるの？？
 
 1. 自身のアカウントにリポジトリを作る
-1. `PITCH.md`を作成する
-1. Markdown記法で`PITCH.md`を編集する
+1. `PITCHME.md`を作成する
+1. Markdown記法で`PITCHME.md`を編集する
   - ローカルで編集してcommit & push
   - Webブラウザ上でも編集可能！
-1. 必要に応じて`PITCH.yaml`を作ってコダワル
+1. 必要に応じて`PITCHME.yaml`を作ってコダワル
 
 これだけで `https://gitpitch.com/<アカウント名>/<リポジトリ名>` ができる！！ 
 
